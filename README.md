@@ -1,5 +1,5 @@
 # Introduction
-This is a 3D PONG game written in Java using [GLOOP](https://www.schulentwicklung.nrw.de/cms/programmierung-mit-gloop/installation/index.html).
+This is a 3D PONG game written in Java using BlueJ and [GLOOP](https://www.schulentwicklung.nrw.de/cms/programmierung-mit-gloop/installation/index.html).
 
 You can use this as described in the `LICENSE` file.
 
