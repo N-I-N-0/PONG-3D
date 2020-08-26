@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Music
+comment1.params=wav
+comment1.target=Music(java.lang.String)
+comment2.params=loopCount
+comment2.target=void\ startMusic(int)
+comment3.params=
+comment3.target=void\ stopMusic()
+numComments=4

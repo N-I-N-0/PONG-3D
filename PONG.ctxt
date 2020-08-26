@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PONG
+comment1.params=
+comment1.target=PONG()
+comment10.params=
+comment10.target=void\ writeLog()
+comment11.params=dimension
+comment11.target=int\ screenSize(java.lang.String)
+comment2.params=
+comment2.target=void\ moveBalls()
+comment3.params=n1\ n2
+comment3.target=void\ setNumbers(int,\ int)
+comment4.params=
+comment4.target=void\ moveNumbers()
+comment5.params=
+comment5.target=void\ rotateCamera()
+comment6.params=
+comment6.target=void\ ballTouchesWall()
+comment7.params=
+comment7.target=void\ randomBallSpeed()
+comment8.params=
+comment8.target=void\ resetBall()
+comment9.params=
+comment9.target=void\ checkKeyboard()
+numComments=12
